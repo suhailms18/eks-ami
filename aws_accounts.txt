@@ -1,0 +1,10 @@
+cheetahdigital-edp-emea-prod
+cheetahdigital-edp-jpn-prod
+cheetahdigital-edp-au-prod
+cheetahdigital-edp-global-qa
+cheetahdigital-edp-stg
+cheetahdigital-edp-prod
+cheetahdigital-dev
+cheetahdigital-marketingsuite-prod
+cheetahdigital-loyalty-prod
+cheetahdigital-loyalty-staging
